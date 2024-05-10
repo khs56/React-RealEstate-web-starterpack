@@ -11,7 +11,7 @@ const Header = () => {
           <a href="">Residencies</a>
           <a href="">Our Values</a>
           <a href="">Contact Us</a>
-          <a href="">Get Startede</a>
+          <a href="">Get Started</a>
           <button class="button" >
             <a href="">Contact</a>
           </button>
